@@ -1,0 +1,13 @@
+body{
+    font-family: Arial;
+    margin:30px;
+}
+
+h1{
+    color:blue;
+}
+
+nav a{
+    text-decoration:none;
+    margin-right:15px;
+}
